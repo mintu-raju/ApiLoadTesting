@@ -24,7 +24,7 @@ with open("/home/mintu/essentials/Smart Retail/logs/web-1/access.log.2", 'r') as
             if hr <= max_window & hr >= min_window:
                 apiDetails = extractedList[1].split()
                 RequestType = extractedList[1].split(" ")[0]
-                if RequestType == "GET" and :
+                if RequestType == "GET":
                     apiUrl = extractedList[1].split(" ")[1]
                     ApiUrl = "https://v2staging.weavedin.com" + apiUrl
                     # if len(apiUrl.split("/")) > 4:
