@@ -1,5 +1,5 @@
 import re
-
+#EACH API AND ITS NUMBER OF HITS
 with open("/home/mintu/essentials/Smart Retail/ApiKeys", "r") as keys:
     KeyList = keys.read().strip().splitlines()
     ApiCounts = dict.fromkeys(KeyList, 0)

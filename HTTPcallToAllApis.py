@@ -4,7 +4,7 @@ import datetime
 import pytz
 import requests
 from bs4 import BeautifulSoup
-
+#HITTING GET APIS IN A SPAN
 BranchUuids = set()
 BranchAccessTokens = {}
 min_window = 19

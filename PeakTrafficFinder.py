@@ -1,7 +1,7 @@
 import datetime, re
 import pytz
 from pytz import *
-
+# HOURLY BASIS NUMBER OF ORDER APIS AND INVOICE APIS
 with open("/home/mintu/essentials/Smart Retail/logs/web-1/access.log.2", 'r') as serv1log1:
     startHour = "11"
     HourlyTrafficOrder = {}

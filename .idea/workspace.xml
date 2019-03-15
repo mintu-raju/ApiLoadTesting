@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba023acf-f161-49a6-98e0-a75b9a6503e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_access_to_branch.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_access_to_branch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiHitsInaSpan.py" beforeDir="false" afterPath="$PROJECT_DIR$/ApiHitsInaSpan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BranchSplit.py" beforeDir="false" afterPath="$PROJECT_DIR$/BranchSplit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroupingApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/GroupingApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPcallToAllApis.py" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPcallToAllApis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPcalls.py" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPcalls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestDurationforApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/LongestDurationforApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PeakTrafficFinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/PeakTrafficFinder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTTPcallToAllApis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="31" column="64" lean-forward="true" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
+            <state relative-caret-position="90">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -26,10 +31,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LongestDurationforApi.py">
+        <entry file="file://$PROJECT_DIR$/HTTPcalls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="323">
+              <caret line="44" column="62" lean-forward="true" selection-start-line="44" selection-start-column="62" selection-end-line="44" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ApiTakingOver1s.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="72" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="72" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -38,20 +55,81 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_access_to_branch.py">
+        <entry file="file://$PROJECT_DIR$/BranchSplit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+            <state relative-caret-position="45">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/GroupingApi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LongestDurationforApi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PeakTrafficFinder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadLogFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="84" selection-start-column="84" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SplitLogfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="37" selection-start-line="21" selection-start-column="12" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/timetoIST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -93,6 +171,7 @@
       <find>8.</find>
       <find>3.</find>
       <find>30.</find>
+      <find>20.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,22 +181,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/timetoIST.py" />
-        <option value="$PROJECT_DIR$/GroupingApi.py" />
-        <option value="$PROJECT_DIR$/BranchSplit.py" />
-        <option value="$PROJECT_DIR$/HTTPcalls.py" />
         <option value="$PROJECT_DIR$/ReadLogFile.py" />
         <option value="$PROJECT_DIR$/venv/HTTPcallToAllApis.py" />
-        <option value="$PROJECT_DIR$/ApiHitsInaSpan.py" />
         <option value="$PROJECT_DIR$/SplitLogfile.py" />
-        <option value="$PROJECT_DIR$/PeakTrafficFinder.py" />
         <option value="$PROJECT_DIR$/venv/test2.py" />
         <option value="$PROJECT_DIR$/ApiTakingOver1s.py" />
-        <option value="$PROJECT_DIR$/LongestDurationforApi.py" />
         <option value="$PROJECT_DIR$/Test2.py" />
         <option value="$PROJECT_DIR$/get_access_to_branch(1).py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/HTTPcallToAllApis.py" />
         <option value="$PROJECT_DIR$/get_access_to_branch.py" />
+        <option value="$PROJECT_DIR$/ApiHitsInaSpan.py" />
+        <option value="$PROJECT_DIR$/BranchSplit.py" />
+        <option value="$PROJECT_DIR$/GroupingApi.py" />
+        <option value="$PROJECT_DIR$/HTTPcalls.py" />
+        <option value="$PROJECT_DIR$/HTTPcallToAllApis.py" />
+        <option value="$PROJECT_DIR$/LongestDurationforApi.py" />
+        <option value="$PROJECT_DIR$/PeakTrafficFinder.py" />
       </list>
     </option>
   </component>
@@ -133,7 +212,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="logfileReading" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logfileReading" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -160,7 +249,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HTTPcallToAllApis">
+  <component name="RunManager" selected="Python.GroupingApi">
+    <configuration name="GroupingApi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="logfileReading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GroupingApi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HTTPcallToAllApis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="logfileReading" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,27 +284,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HTTPcallToAllApis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="logfileReading" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GroupingApi" />
         <item itemvalue="Python.HTTPcallToAllApis" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.get_access_to_branch" />
         <item itemvalue="Python.get_access_to_branch(1)" />
-        <item itemvalue="Python.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -367,81 +456,7 @@
     <entry file="file:///usr/lib/python3/dist-packages/requests/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ApiHitsInaSpan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/test2.py" />
-    <entry file="file://$PROJECT_DIR$/ApiTakingOver1s.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/timetoIST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GroupingApi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BranchSplit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PeakTrafficFinder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadLogFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="84" selection-start-column="84" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SplitLogfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="37" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="22" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/get_access_to_branch(1).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -459,25 +474,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTTPcalls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestDurationforApi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/get_access_to_branch.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -489,15 +487,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ApiHitsInaSpan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTakingOver1s.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BranchSplit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GroupingApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTPcalls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="44" column="62" lean-forward="true" selection-start-line="44" selection-start-column="62" selection-end-line="44" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTTPcallToAllApis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="31" column="64" lean-forward="true" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestDurationforApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PeakTrafficFinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadLogFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="84" selection-start-column="84" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplitLogfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="37" selection-start-line="21" selection-start-column="12" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetoIST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>

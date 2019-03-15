@@ -5,7 +5,7 @@ from pytz import *
 with open("/home/mintu/essentials/Smart Retail/logs/web-1/access.log.2", 'r') as serv1log1:
     startHour = "11"
     ResponseTimeList = []
-
+#HIGHEST RESPONSE TAKING APIS
 
     for s1l1 in serv1log1:
         extractedList = s1l1.split('"')
